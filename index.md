@@ -40,13 +40,13 @@ Python, Sci Kit Learn and R
 
 ---
 
-### 3 - EEG Data Experimnents with Muse 2
+### 3 - Embodied Cognition - EEG Data Experiments with Muse 2 BCI
 
 Cognitive Science - Study Extension
 
 Python and NeuroX
 
-- [Jupyter and IRKernal Notebook](/PF/PF_2/)
+- [Jupyter Notebook](/PF/PF_2/)
 
 
 ---
