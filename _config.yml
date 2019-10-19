@@ -1,6 +1,8 @@
 title: Anthony Sutton # your name (or website title) here
-#logo: "/images/Group_Proj.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+logo: "/images/group1.png?raw=true" # your photo (or logo) here
+logo: "/images/group2.png?raw=true" # your photo (or logo) here
+
+#description: > # your text below (remove <br> elements if you don't need line breaks)
  
-theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+#theme: jekyll-theme-minimal
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
