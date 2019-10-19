@@ -40,7 +40,16 @@ Python, Sci Kit Learn and R
 
 ---
 
+### 3 - EEG Data Experimnents with Muse 2
 
+Cognitive Science - Study Extension
+
+Python and NeuroX
+
+- [Jupyter and IRKernal Notebook](/PF/PF_2/)
+
+
+---
 
 
 ---
