@@ -17,9 +17,12 @@ Python & Tensorflow
 - [Workflow 6 - TF_Classifier](/PF/PF_1/CASA_06_TF_Classifier.html)
 - [Workflow 7 - Class_Map_Gallery_Maker](/PF/PF_1/CASA_07_Class_Map_Gallery_Maker.html)
 - [Workflow 8 - Image_Analysis](/PF/PF_1/CASA_08_Image_Analysis.html)
-- [Workflow 9+ - TSNE_3JS_Explorer](/PF/PF_1/CASA_09_TSNE_3JS_Explorer.html)
-- [Workflow 10+ - ConvNet_Visualizer](/PF/PF_1/CASA_10_ConvNet_Visualizer.html)
-- [Workflow 11+ - Keras_CNN_FineTuning_Trainer](/PF/PF_1/CASA_11_Keras_CNN_FineTuning_Trainer.html)
+
+Supplementary Workflows
+
+- [Workflow 9 - TSNE_3JS_Explorer](/PF/PF_1/CASA_09_TSNE_3JS_Explorer.html)
+- [Workflow 10 - ConvNet_Visualizer](/PF/PF_1/CASA_10_ConvNet_Visualizer.html)
+- [Workflow 11 - Keras_CNN_FineTuning_Trainer](/PF/PF_1/CASA_11_Keras_CNN_FineTuning_Trainer.html)
 
 <br>
 <img src="images/LDD_CNN+Overview.png?raw=true"/>
