@@ -4,7 +4,7 @@
 
 ### 1 - Exploring the Visual Nature of London Urban Development with Convolutional Neural Networks
 
-MRes in Spatial Data Science and Visualisation Dissertation - Bartlett, UCL)
+MRes in Spatial Data Science and Visualisation Dissertation - Bartlett, UCL
 
 Python & Tensorflow
 
