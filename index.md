@@ -3,7 +3,8 @@
 ---
 
 ### 1 - Exploring the Visual Nature of London Urban Development with Convolutional Neural Networks
-(MRes in Spatial Data Science and Visualisation Dissertation - Bartlett, UCL) 
+
+MRes in Spatial Data Science and Visualisation Dissertation - Bartlett, UCL)
 
 Python & Tensorflow
 
@@ -26,7 +27,8 @@ Python & Tensorflow
 ---
 
 ### 2 - Analysis and Visualisation of London's EU Referendum Vote through Ward based Census Data and Election Results 
-(MRes in Spatial Data Science and Visualisation Coursework - Bartlett, UCL)  
+
+MRes in Spatial Data Science and Visualisation Coursework - Bartlett, UCL
 
 Python, Sci Kit Learn and R 
 
