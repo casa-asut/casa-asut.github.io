@@ -1,12 +1,13 @@
-## Portfolio
+## Data Science Portfolio 2018/19
 
 ---
 
-### Exploring the Visual Nature of London Urban Development with Convolutional Neural Networks (MRes in Spatial Data Science and Visualisation Dissertation - Bartlett, UCL) Python & Tensorflow
+### 1 - Exploring the Visual Nature of London Urban Development with Convolutional Neural Networks 
+#### (MRes in Spatial Data Science and Visualisation Dissertation - Bartlett, UCL) Python & Tensorflow
 
 - [Dissertation Write Up](/PF/PF_1/)
 - [Workflow 1 - Data_Model_Context_Builder](/PF/PF_1/CASA_01_Data_Model_Context_Builder.html)
-- [Workflow 2 - Street_Downloader] - (/PF/PF_1/CASA_02_Street_Downloader.html)
+- [Workflow 2 - Street_Downloader](/PF/PF_1/CASA_02_Street_Downloader.html)
 - [Workflow 3 - Image_Pre_Processor](/PF/PF_1/CASA_03_Image_Pre_Processor.html)
 - [Workflow 4 - Label_Sets_Bucket_Maker](/PF/PF_1/CASA_04_Label_Sets_Bucket_Maker.html)
 - [Workflow 5 - TF_Trainer](/PF/PF_1/CASA_05_TF_Trainer.html)
@@ -21,7 +22,8 @@
 
 ---
 
-### Analysis and Visualisation: London's EU Referendum Vote through Ward based Census Data and Election Results (MRes in Spatial Data Science and Visualisation Coursework - Bartlett, UCL)  Python, Sci Kit Learn and R 
+### Analysis and Visualisation: London's EU Referendum Vote through Ward based Census Data and Election Results 
+#### (MRes in Spatial Data Science and Visualisation Coursework - Bartlett, UCL)  Python, Sci Kit Learn and R 
 
 - [Jupyter and IRKernal Script](/PF/PF_2/)
 
