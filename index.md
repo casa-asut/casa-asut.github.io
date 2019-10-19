@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/pdf/CASA_01_Data_Model_Context_Builder.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
