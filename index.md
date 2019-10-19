@@ -3,7 +3,7 @@
 ---
 
 ### 1 - Exploring the Visual Nature of London Urban Development with Convolutional Neural Networks 
-#### (MRes in Spatial Data Science and Visualisation Dissertation - Bartlett, UCL) Python & Tensorflow
+(MRes in Spatial Data Science and Visualisation Dissertation - Bartlett, UCL) Python & Tensorflow
 
 - [Dissertation Write Up](/PF/PF_1/)
 - [Workflow 1 - Data_Model_Context_Builder](/PF/PF_1/CASA_01_Data_Model_Context_Builder.html)
@@ -18,12 +18,12 @@
 - [Workflow 10 - ConvNet_Visualizer](/PF/PF_1/CASA_10_ConvNet_Visualizer.html)
 - [Workflow 11 - Keras_CNN_FineTuning_Trainer](/PF/PF_1/CASA_11_Keras_CNN_FineTuning_Trainer.html)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/LDD_CNN+Overview.png?raw=true"/>
 
 ---
 
 ### Analysis and Visualisation: London's EU Referendum Vote through Ward based Census Data and Election Results 
-#### (MRes in Spatial Data Science and Visualisation Coursework - Bartlett, UCL)  Python, Sci Kit Learn and R 
+(MRes in Spatial Data Science and Visualisation Coursework - Bartlett, UCL)  Python, Sci Kit Learn and R 
 
 - [Jupyter and IRKernal Script](/PF/PF_2/)
 
