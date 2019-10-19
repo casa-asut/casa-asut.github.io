@@ -32,7 +32,7 @@ MRes in Spatial Data Science and Visualisation Coursework - Bartlett, UCL
 
 Python, Sci Kit Learn and R 
 
-- [Jupyter and IRKernal Script](/PF/PF_2/)
+- [Jupyter and IRKernal Notebook](/PF/PF_2/)
 
 
 ---
