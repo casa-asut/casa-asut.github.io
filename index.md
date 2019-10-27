@@ -34,8 +34,8 @@ MRes in Spatial Data Science and Visualisation Coursework - Bartlett, UCL
 
 Python, Sci Kit Learn and R 
 
-- [Jupyter and IRKernal Notebook - Part 1](/PF/PF_2/ds_coursework_ver_2_part_1.html)
-- [Jupyter and IRKernal Notebook - Part 2](/PF/PF_2/ds_coursework_ver_2_part_2,html)
+- [Jupyter and IRKernal Notebook - Part 1](/PF2/ds_coursework_ver_2_part_1.html)
+- [Jupyter and IRKernal Notebook - Part 2](/PF2/ds_coursework_ver_2_part_2,html)
 
 <br>
 <img src="images/DS_Overview.png?raw=true"/>
