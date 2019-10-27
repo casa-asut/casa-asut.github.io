@@ -38,7 +38,7 @@ Python, Sci Kit Learn and R
 - [Jupyter and IRKernal Notebook - Part 2](/PF2/ds_coursework_ver_2_part_2,html)
 
 <br>
-<img src="images/DS_Overview.png?raw=true"/>
+<img src="images/DS_Overview1.png?raw=true"/>
 
 ---
 
