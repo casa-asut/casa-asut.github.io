@@ -14,6 +14,7 @@ Python, Sci Kit Learn and R
 <br>
 <img src="images/DS_Overview1.png?raw=true"/>
 
+<br>
 ---
 
 ### 2 - Exploring the Visual Nature of London Urban Development with Convolutional Neural Networks
@@ -41,6 +42,7 @@ Python & Tensorflow
 <br>
 <img src="images/ldd1.png?raw=true"/>
 
+<br>
 ---
 
 ### 3 - Embodied Cognition Experiments with EEG Data  and Muse2 BCI
@@ -52,7 +54,7 @@ Python, NeuroX, Psychopy and Muse2
 - [Jupyter Notebook](/PF/PF_2/) - In Progress
 
 
----
+
 
 
 ---
