@@ -45,7 +45,7 @@ Python & Tensorflow
 
 ---
 
-### 3 - Embodied Cognition Experiments with EEG Data  and Muse2 BCI
+### 3 - Cognitive Experiments with EEG Data and Muse2 BCI
 
 Cognitive Science - Study Extension
 
