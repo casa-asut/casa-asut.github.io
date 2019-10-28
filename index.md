@@ -39,7 +39,7 @@ Python & Tensorflow
 - [Dissertation Write Up](/PF/PF_1/)
 
 <br>
-<img src="images/ldd.png?raw=true"/>
+<img src="images/ldd1.png?raw=true"/>
 
 ---
 
