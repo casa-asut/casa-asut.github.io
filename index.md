@@ -2,14 +2,27 @@
 
 ---
 
-### 1 - Exploring the Visual Nature of London Urban Development with Convolutional Neural Networks
+### 1 - ML Analysis and Visualisation of London's EU Referendum Vote through Ward based Census and Election Data 
 
-MRes in Spatial Data Science and Visualisation Dissertation - Bartlett, UCL
+MRes in Spatial Data Science and Visualisation Coursework(2017) - Casa, Bartlett, UCL
+
+Python, Sci Kit Learn and R 
+
+- [Jupyter Notebook - Part 1](/PF2/ds_coursework_ver_2_part_1.html)
+- [Jupyter and IRKernal Notebook - Part 2](/PF2/ds_coursework_ver_2_part_2.html)
+
+<br>
+<img src="images/DS_Overview1.png?raw=true"/>
+
+---
+
+### 2 - Exploring the Visual Nature of London Urban Development with Convolutional Neural Networks
+
+MRes in Spatial Data Science and Visualisation Dissertation(2018) - Bartlett, UCL
 
 Python & Tensorflow
 
-- [Overview Powerpoint](/PF/PF_1/)
-- [Dissertation Write Up](/PF/PF_1/)
+- [Overview Powerpoint](/images/LDD_CNN+Overview.png)
 - [Workflow 1 - Data_Model_Context_Builder](/PF/PF_1/CASA_01_Data_Model_Context_Builder.html)
 - [Workflow 2 - Street_Downloader](/PF/PF_1/CASA_02_Street_Downloader.html)
 - [Workflow 3 - Image_Pre_Processor](/PF/PF_1/CASA_03_Image_Pre_Processor.html)
@@ -22,33 +35,21 @@ Python & Tensorflow
 - [Workflow 9 - TSNE_3JS_Explorer](/PF/PF_1/CASA_09_TSNE_3JS_Explorer.html)
 - [Workflow 10 - ConvNet_Visualizer](/PF/PF_1/CASA_10_ConvNet_Visualizer.html)
 - [Workflow 11 - Keras_CNN_FineTuning_Trainer](/PF/PF_1/CASA_11_Keras_CNN_FineTuning_Trainer.html)
+- [Workflow 12 - PyTorch Transfer Learning with Places365](/PF/PF_1/CASA_11_Keras_CNN_FineTuning_Trainer.html) - In Progress
+- [Dissertation Write Up](/PF/PF_1/)
 
 <br>
-<img src="images/LDD_CNN+Overview.png?raw=true"/>
+<img src="images/ldd.png?raw=true"/>
 
 ---
 
-### 2 - Analysis and Visualisation of London's EU Referendum Vote through Ward based Census Data and Election Results 
-
-MRes in Spatial Data Science and Visualisation Coursework - Bartlett, UCL
-
-Python, Sci Kit Learn and R 
-
-- [Jupyter and IRKernal Notebook - Part 1](/PF2/ds_coursework_ver_2_part_1.html)
-- [Jupyter and IRKernal Notebook - Part 2](/PF2/ds_coursework_ver_2_part_2.html)
-
-<br>
-<img src="images/DS_Overview1.png?raw=true"/>
-
----
-
-### 3 - Embodied Cognition - EEG Data Experiments with Muse 2 BCI
+### 3 - Embodied Cognition Experiments with EEG Data  and Muse2 BCI
 
 Cognitive Science - Study Extension
 
-Python and NeuroX
+Python, NeuroX, Psychopy and Muse2
 
-- [Jupyter Notebook](/PF/PF_2/)
+- [Jupyter Notebook](/PF/PF_2/) - In Progress
 
 
 ---
