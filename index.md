@@ -19,7 +19,7 @@ Python, Sci Kit Learn and R
 
 ### 2 - Exploring the Visual Nature of London Urban Development with Convolutional Neural Networks
 
-MRes in Spatial Data Science and Visualisation Dissertation(2018) - Bartlett, UCL
+MRes in Spatial Data Science and Visualisation Dissertation(2018) - Casa, Bartlett, UCL
 
 Python & Tensorflow
 
