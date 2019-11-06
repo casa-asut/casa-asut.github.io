@@ -23,7 +23,7 @@ MRes in Spatial Data Science and Visualisation Dissertation(2018) - Casa, Bartle
 
 Python & Tensorflow
 
-- [Overview Powerpoint](/images/LDD_CNN+Overview.png) - In Progress
+- [Overview Powerpoint](/pdf/Presentation.pdf) 
 - [Workflow 1 - Data_Model_Context_Builder](/PF/PF_1/CASA_01_Data_Model_Context_Builder.html)
 - [Workflow 2 - Street_Downloader](/PF/PF_1/CASA_02_Street_Downloader.html)
 - [Workflow 3 - Image_Pre_Processor](/PF/PF_1/CASA_03_Image_Pre_Processor.html)
@@ -48,6 +48,7 @@ Python & Tensorflow
 ### 3 - Cognitive Experiments with EEG Data and Muse2 BCI
 
 Cognitive Science - Study Extension
+Abstract: Embodied Audio Visual Interfacing with Colour Scales (Synesthesia and Enactive Vision) 
 
 Python, NeuroX, Psychopy and Muse2
 
