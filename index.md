@@ -41,8 +41,8 @@ Python & Tensorflow
 - Technical Write Up
 - [Dissertation Write Up_1](/pdf/Dissertation_1.pdf)
 - [Dissertation Write Up_2_Workflow](/pdf/Dissertation_2.pdf) 
-- [Dissertation Write Up_3_Workflow]](/pdf/Dissertation_3.pdf)
-- [Dissertation Write Up_4_Workflow]](/pdf/Dissertation_4.pdf) 
+- [Dissertation Write Up_3_Workflow](/pdf/Dissertation_3.pdf)
+- [Dissertation Write Up_4_Workflow](/pdf/Dissertation_4.pdf) 
 - [Dissertation Write Up_5_Conclusion](/pdf/Dissertation_5.pdf)
 
 
