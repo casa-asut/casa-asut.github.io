@@ -58,7 +58,7 @@ Cognitive Science - Study Extension
 <br>
 Abstract: Embodied Audio Visual Interfacing with Colour Scales (Synesthesic pathways into Enactive Vision) 
 
-Python, NeuroX, Psychopy and Muse2
+Python, NeuroX, Psychopy, Reason and Muse2
 
 - [Jupyter Notebook](/PF/PF_2/) - In Progress
 
