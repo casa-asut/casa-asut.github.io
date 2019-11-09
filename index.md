@@ -43,8 +43,8 @@ Python & Tensorflow
 - [Dissertation Write Up_2_Workflow](/pdf/Dissertation_2.pdf) 
 - [Dissertation Write Up_3_Workflow](/pdf/Dissertation_3.pdf)
 - [Dissertation Write Up_4_Workflow](/pdf/Dissertation_4.pdf) 
-- [Dissertation Write Up_5_Conclusion](/pdf/Dissertation_5.pdf)
-
+- [Dissertation Write Up_5_Workflow](/pdf/Dissertation_5.pdf)
+- [Dissertation Write Up_6_Conclusion](/pdf/Dissertation_6.pdf)
 
 <br>
 <img src="images/ldd1.png?raw=true"/>
