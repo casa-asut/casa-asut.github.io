@@ -37,7 +37,7 @@ Python & Tensorflow
 - [Workflow 10 - ConvNet_Visualizer](/PF/PF_1/CASA_10_ConvNet_Visualizer.html)
 - [Workflow 11 - Keras_CNN_FineTuning_Trainer](/PF/PF_1/CASA_11_Keras_CNN_FineTuning_Trainer.html)
 - [Workflow 12 - PyTorch Transfer Learning with Places365](/PF/PF_1/CASA_11_Keras_CNN_FineTuning_Trainer.html) - In Progress
-- [Dissertation Write Up_1](/pdf/Dissertation_1.pdf 
+- [Dissertation Write Up_1](/pdf/Dissertation_1.pdf)
 - [Dissertation Write Up_2](/PF/PF_1/) 
 
 <br>
