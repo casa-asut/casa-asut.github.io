@@ -40,7 +40,11 @@ Python & Tensorflow
 - [Workflow 12 - PyTorch Transfer Learning with Places365](/PF/PF_1/CASA_11_Keras_CNN_FineTuning_Trainer.html) - In Progress
 - Technical Write Up
 - [Dissertation Write Up_1](/pdf/Dissertation_1.pdf)
-- [Dissertation Write Up_2](/PF/PF_1/) 
+- [Dissertation Write Up_2_Workflow](/pdf/Dissertation_2.pdf) 
+- [Dissertation Write Up_3_Workflow]](/pdf/Dissertation_3.pdf)
+- [Dissertation Write Up_4_Workflow]](/pdf/Dissertation_4.pdf) 
+- [Dissertation Write Up_5_Conclusion](/pdf/Dissertation_5.pdf)
+
 
 <br>
 <img src="images/ldd1.png?raw=true"/>
