@@ -55,7 +55,8 @@ Python & Tensorflow
 ### 3 - Cognitive Experiments with EEG Data and Muse2 BCI
 
 Cognitive Science - Study Extension
-Abstract: Embodied Audio Visual Interfacing with Colour Scales (Synesthesia and Enactive Vision) 
+<br>
+Abstract: Embodied Audio Visual Interfacing with Colour Scales (Synesthesic pathways into Enactive Vision) 
 
 Python, NeuroX, Psychopy and Muse2
 
