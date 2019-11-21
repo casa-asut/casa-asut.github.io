@@ -4,7 +4,7 @@
 
 ### 1 - ML Analysis and Visualisation of London's EU Referendum Vote through Ward based Census and Election Data 
 
-MRes in Spatial Data Science and Visualisation Coursework(2017) - Casa, Bartlett, UCL
+MRes in Spatial Data Science and Visualisation Coursework(2017)
 
 Python, Sci Kit Learn and R 
 
@@ -19,7 +19,7 @@ Python, Sci Kit Learn and R
 
 ### 2 - Exploring the Visual Nature of London Urban Development with Convolutional Neural Networks
 
-MRes in Spatial Data Science and Visualisation Dissertation(2018) - Casa, Bartlett, UCL
+MRes in Spatial Data Science and Visualisation Dissertation(2018) 
 
 Python & Tensorflow
 
