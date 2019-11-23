@@ -55,11 +55,11 @@ Python & Tensorflow
 
 ---
 
-### 3 - Cognitive Experiments with EEG Data and Muse2 BCI
+### 3 - "Harmonographic" - Cognitive Experiments with EEG Data and Muse2 BCI
 
 Cognitive Science - Study Extension
 <br>
-Abstract: Embodied Audio Visual Interfacing with Colour Scales (Synaesthetic steps to Enactive Vision) 
+Abstract: Embodied Audio Visual Interfacing with Colour Scales (Synaesthetic steps torwards Enactive Vision) 
 
 Python, NeuroX, Psychopy, Reason and Muse2
 
