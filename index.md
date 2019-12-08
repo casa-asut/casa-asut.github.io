@@ -59,7 +59,7 @@ Python & Tensorflow
 
 Cognitive Science - Study Extension
 <br>
-Abstract: Embodied Audio Visual Interfacing with Colour Scales and Pythagorean Tuning(Synaesthetic steps torwards Enactive Vision) 
+Abstract: Audio Visual Interfacing with Colour Scales and Pythagorean Tuning
 
 Python, NeuroX, Psychopy, Reason and Muse2
 
