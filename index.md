@@ -57,19 +57,32 @@ Python & Tensorflow
 
 ### 3 - "Harmonographic" - Cognitive Experiments with EEG Data and Muse2 BCI
 
-Cognitive Science - Study Extension
+Cognitive Science - Study Extension(2019)
 <br>
-Abstract: Audio Visual Interfacing with Colour Scales and Pythagorean Tuning
+Abstract: Audio Visual Interfacing: A Synesthetic Relationship of Pythagorean Tuning and Colour Scales
 
-Python, NeuroX, Psychopy, Reason and Muse2
+Python, NeuroX, Psychopy, Reason and Muse BCI
 
-- [Jupyter Notebook](/PF/PF_2/) - In Progress
+- [Jupyter Notebooks](/PF/PF_2/) - In Progress
 
 <br>
 <img src="images/harmono.PNG?raw=true"/>
 <br>
 
+### 4 - "Night On Earth" - Cognitive Experiments with EEG Data and Muse2 BCI
 
+MRes in Spatial Data Science and Visualisation Group Project(2018)
+<br>
+
+Project Theme: The Pulse of the City
+
+Brief: To create a coherent visualisation project which communicates your vision of the Project Theme. Use data and/or models to explore and visualise urban patterns and rhythms that relate to “The Pulse of the City”. This could focus on energy, pedestrian/transport flows, communications, urban development, commercial activity or any other data theme you feel captures interesting urban dynamics, organic processes and patterns.
+
+- [Jupyter Notebook](/PF/PF3/) - In 
+
+<br>
+<img src="/images/c_clock_logo.png?raw=true"/>
+<br>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
