@@ -10,6 +10,7 @@ Python, Sci Kit Learn and R
 
 - [Jupyter Notebook - Part 1](/PF2/ds_coursework_ver_2_part_1.html)
 - [Jupyter and IRKernal Notebook - Part 2](/PF2/ds_coursework_ver_2_part_2.html)
+- [Jupyter  Notebook - Part 3](/PF2/ds_coursework_ver_2_part_3.html)
 
 <br>
 <img src="images/DS_Overview1.png?raw=true"/>
@@ -83,7 +84,7 @@ Brief: To create a coherent visualisation project which communicates your vision
 - [Project Report](/pdf/Project Report.pdf) 
 
 <br>
-<img src="/images/circadian.png?raw=true"/>
+<img src="/images/Circadian.png?raw=true"/>
 <br>
 
 ---
