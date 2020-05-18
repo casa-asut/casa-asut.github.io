@@ -80,6 +80,7 @@ Project Theme: The Pulse of the City
 
 Brief: To create a coherent visualisation project which communicates your vision of the Project Theme. Use data and/or models to explore and visualise urban patterns and rhythms that relate to “The Pulse of the City”. This could focus on energy, pedestrian/transport flows, communications, urban development, commercial activity or any other data theme you feel captures interesting urban dynamics, organic processes and patterns.
 
+- [Project Report](/pdf/Project Report.pdf) 
 
 <br>
 <img src="/images/circadian.png?raw=true"/>
