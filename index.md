@@ -6,11 +6,11 @@
 
 MRes in Spatial Data Science and Visualisation Coursework(2017)
 
-Python, Sci Kit Learn and R 
+Python, Sci Kit Learn, PyMC3 and R 
 
-- [Jupyter Notebook - Part 1](/PF2/ds_coursework_ver_2_part_1.html)
-- [Jupyter and IRKernal Notebook - Part 2](/PF2/ds_coursework_ver_2_part_2.html)
-- [Jupyter  Notebook - Part 3](/PF2/ds_coursework_ver_2_part_3.html)
+- [Jupyter Notebook - Part 1 - SciKit Learn](/PF2/ds_coursework_ver_2_part_1.html)
+- [Jupyter and IRKernal Notebook - Part 2 - R](/PF2/ds_coursework_ver_2_part_2.html)
+- [Jupyter  Notebook - Part 3 - MRP with PyMC3](/PF2/ds_coursework_ver_2_part_3.html)
 
 <br>
 <img src="images/DS_Overview1.png?raw=true"/>
