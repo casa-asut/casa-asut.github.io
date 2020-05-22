@@ -64,7 +64,7 @@ Abstract: Audio Visual Interfacing: A Synesthetic Relationship of Pythagorean Tu
 
 Python, NeuroX, Psychopy, Reason and Muse BCI
 
-- [Jupyter Notebooks](/PF/PF_2/) - In Progress
+- [Jupyter Notebooks](/PF3/EEG_PoC.html) - In Progress
 
 <br>
 <img src="images/harmono.PNG?raw=true"/>
