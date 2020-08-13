@@ -60,7 +60,7 @@ Python & Tensorflow
 
 Cognitive Science - Study Extension(2019)
 <br>
-Abstract: Audio Visual Interfacing: A Synesthetic Relationship of Pythagorean Tuning and Colour Scales
+Abstract: 
 
 Python, NeuroX, Psychopy, Reason and Muse BCI
 
