@@ -64,8 +64,8 @@ Abstract:
 
 Python, NeuroX, Psychopy, Reason and Muse BCI
 
-- [Jupyter Notebooks](/PF3/EEG_PoC-3.html) Quantitative Methods for Embodied Cognitive Models and Theory - In Progress
-- [Jupyter Notebooks](/PF3/) Audio Visual Interfacing: A Synesthetic Relationship of Pythagorean Tuning and Colour Scales - In Progress
+- [Jupyter Notebooks](/PF3/EEG_PoC-3.html) Quantitative Methods for Embodied Cognitive Models and Theory
+- [Jupyter Notebooks] Audio Visual Interfacing: A Synesthetic Relationship of Pythagorean Tuning and Colour Scales - In Progress
 
 <br>
 <img src="images/harmono.PNG?raw=true"/>
